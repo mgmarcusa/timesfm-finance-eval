@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+yfinance
+tqdm
+torch
+scipy
+statsmodels
+git+https://github.com/google-research/timesfm.git
